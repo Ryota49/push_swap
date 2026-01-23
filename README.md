@@ -69,8 +69,3 @@ Here are some documentations i have read during the project :
 - Watch a push_swap code tutorial on youtube to understand the order of verifications :
 
     - https://www.youtube.com/watch?v=OaG81sDEpVk&t=2945s
-
-AI was used for : 
-
-- Command line on how to show how many operations i do for the correction.
-- How to check with random numbers with the checker.
